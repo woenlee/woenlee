@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello there! 👋
+
+I'm Woen. I'm an experienced full stack engineer with 4+ years of professional development experience, skilled in web application development and cloud infra(AWS). 
+
+Check out [woenlee.com](woenlee.com) to learn more about me!
 
 <!--
 **woenlee/woenlee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
