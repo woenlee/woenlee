@@ -4,6 +4,12 @@ I'm Woen. I'm an experienced full stack engineer with 4+ years of professional d
 
 🌐 **Check out [woenlee.com](https://www.woenlee.com) to learn more about me!**
 
+
+--
+
+
+![](https://komarev.com/ghpvc/?username=woenlee&color=green&label=👀)
+
 <!--
 **woenlee/woenlee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
