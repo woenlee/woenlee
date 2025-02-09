@@ -1,6 +1,6 @@
 ### Hello there! 👋
 
-I'm Woen. I'm an experienced full stack engineer with 5+ years of professional development experience, skilled in web application development and cloud infra(AWS). 
+I'm Woen. I'm an experienced full stack engineer with 6+ years of professional development experience, skilled in web application development and cloud infra(AWS). 
 
 🌐 **Check out [woenlee.com](https://www.woenlee.com) to learn more about me!**
 
