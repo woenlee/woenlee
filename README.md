@@ -1,13 +1,22 @@
-### Hello there! 👋
+<div align="center">
 
-I'm Woen. I'm an experienced full stack engineer with 6+ years of professional development experience, skilled in web application development and cloud infra (AWS SAA certified). 
+# Hi, I'm Woen 👋
 
-🌐 **Check out [woenlee.com](https://www.woenlee.com) to learn more about me!**
+Full-stack engineer, 6+ yrs building web apps & cloud infra (AWS Certified).
 
---
+**🌐 Check out <a href="https://www.woenlee.com">woenlee.com</a> to learn more about me!**
+
+---
+
+<a href="https://www.credly.com/badges/1fd7755f-1f13-49c1-9a64-deefe7814c53/public_url">
+  <img src="https://images.credly.com/size/200x200/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Certified Solutions Architect – Associate (Credly)" height="120" />
+</a>
 
 
 ![](https://komarev.com/ghpvc/?username=woenlee&color=green&label=👀)
+</div>
+
+
 
 <!--
 **woenlee/woenlee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
